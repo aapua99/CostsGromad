@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/costs"
+            android:icon="@drawable/down"
+            android:title="Витрати"/>
+
+        <item
+            android:id="@+id/income"
+            android:icon="@drawable/up"
+            android:title="Доходи" />
+        <item
+            android:id="@+id/suggest"
+            android:icon="@drawable/suggest"
+            android:title="Запропонувати" />
+        <item
+            android:id="@+id/searchObject"
+            android:icon="@drawable/search_icon"
+            android:title="Пошук"/>
+        <!--<item android:id="@+id/mapCosts"-->
+            <!--android:icon="@drawable/map_icon"-->
+            <!--android:title="Карта"/>-->
+    </group>
+
+    <item android:title="Налаштування">
+        <menu>
+            <item
+                android:id="@+id/exit"
+
+                android:icon="@drawable/exit"
+                android:title="Вийти" />
+
+        </menu>
+    </item>
+
+</menu>

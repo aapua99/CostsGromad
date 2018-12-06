@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Кошти громади</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_costs_gromad">CostsGromad</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Змінити громаду</string>
+    <string name="allCosts">Загалом витрачено</string>
+    <string name="million">млн</string>
+    <string name="thounsand">тис</string>
+    <string name="grivna">грн</string>
+    <string name="sign_in">Увійти</string>
+    <string name="sign_up">Зареєструватись</string>
+    <string name="support">Підтримати</string>
+    <string name="email">Електронна пошта</string>
+    <string name="password">Пароль</string>
+    <string name="allRevunes">Загалом отримано</string>
+    <string name="search">Пошук</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="load">Завантаження</string>
+    <string name="title_activity_suggest_expense">SuggestExpense</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>

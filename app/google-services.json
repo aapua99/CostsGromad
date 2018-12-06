@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "732483354063",
+    "firebase_url": "https://dehack2017-c9e35.firebaseio.com",
+    "project_id": "dehack2017-c9e35",
+    "storage_bucket": "dehack2017-c9e35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732483354063:android:35e257be4ce65a6e",
+        "android_client_info": {
+          "package_name": "com.example.andriy.dehack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732483354063-m8tib62dctf627411os9qp23391h4dc9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.andriy.dehack",
+            "certificate_hash": "7314486c24bbbb520f8690d1f5f8902da59e624d"
+          }
+        },
+        {
+          "client_id": "732483354063-96tsdtdm6j1i7ahgdslr8dk613ittr4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-Wsl5z1QW7cnJ8ZkoWfagNidWuSpHxBs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732483354063-96tsdtdm6j1i7ahgdslr8dk613ittr4l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
